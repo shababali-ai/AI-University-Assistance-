@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.pyc
+data/documents/*
+!data/documents/.gitkeep
+.venv/
+faiss_index/
